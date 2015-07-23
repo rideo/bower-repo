@@ -1,0 +1,3 @@
+[submodule "flowplayer-ipad"]
+	path = flowplayer-ipad
+	url = git@github.com:rideo/bower-repo.git
