@@ -1,8 +1,0 @@
-{
-  "name": "flowplayer.ipad.min.js",
-  "version": "3.2.12",
-  "main": "./flowplayer.ipad.min.js",
-  "ignore": [],
-  "dependencies": {
-  }
-}
